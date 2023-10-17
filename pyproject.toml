@@ -6,8 +6,15 @@ authors = ["Jacob Valdez <jacobfv123@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
-
+python = "^3.11"
+networkx = "^3.1"
+matplotlib = "^3.8.0"
+keyboard = "^0.13.5"
+attrs = "^23.1.0"
+langchain = "^0.0.315"
+pydantic = "^2.4.2"
+dm-tree = "^0.1.8"
+multipledispatch = "^1.0.0"
 
 [build-system]
 requires = ["poetry-core"]

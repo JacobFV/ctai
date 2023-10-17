@@ -20,3 +20,6 @@
   - binary doesn't distinguish between free and bound variables
   - currently we have to explicity set if it is discreet or free
 - subgraphs of more than one neighbor ring can be matched via hierarchical recursion
+
+## Algo 2
+
